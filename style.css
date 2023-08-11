@@ -1,0 +1,26 @@
+body{
+background-size:cover;
+}
+.heading{
+    width:100%;
+    margin:0;
+    font-size:30px;
+    font-family:georgia;
+    font-weight:bold;
+}
+#start, #numberOfObjects, #status{
+    font-size:18px;
+}
+.copyrightFooter{
+    bottom:0;
+    position:fixed;
+    width:100%;
+    background-color: blanchedalmond;
+    font-size:15px;
+    font-weight:bold;
+    font-family:georgia;
+}
+canvas{
+    border-style:double;
+    margin-top:93px;
+}
